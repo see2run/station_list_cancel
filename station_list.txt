@@ -1,0 +1,55 @@
+1. BABAT: Babat
+2. BANDAR LAMPUNG: Blambangan pagar, Gedung ratu, Kalibalangan, Labuanratu, Rejosari, Haji pemanggilan, Beranti, Bekri, Tegineneng, Rengas, Sulusuban, Candimas, Tanjungkarang, Kotabumi
+3. BANDUNG: Gateway cicadas, Mpii, Sdfdsf, Mason pine, Cianjur, Testerr, Cikudapateuh, Kiaracondong, Bandung, Kantor pusat, Tegal luar
+4. BANDUNG BARAT: Padalarang
+5. BANJAR: Banjar
+6. BANYUWANGI: Kalibaru, Banyuwangi baru, Banyuwangi kota
+7. BINJAI: Binjai
+8. BLITAR: Blitar
+9. BOGOR: Bogor paledang
+10. BOJONEGORO: Bojonegoro
+11. BREBES: Karanggandul
+12. CIKAMPEK: Ckp, Cikampek
+13. CILACAP: Cilacap, Gandrungmangun, Kroya
+14. CIMAHI: Cimahi
+15. CIREBON: Cirebon, Cirebon prujakan
+16. GARUT: Pasirjengkol
+17. INDRALAYA: Ketapang, Indralaya, Aaggnn
+18. INDRAMAYU: Jatibarang
+19. JAKARTA: Tanahabang, Tamankota, Sudirmanbaru, Sudirman, Sudimara, Serpong, Grogol, Gondangdia, Duri, Tangerang, Durenkalibata, Depokbaru, Depok, Daru, Citayam, Cisauk, Cilejit, Gangsentiong, Tanjungbarat, Palur, Cilebut, Gawok, Delanggu, Ceper, Universitaspancasila, Universitasindonesia, Tigaraksa, Maja, Lentengagung, Tenjo, Kranji, Cikarang, Kemayoran, Sudirman baru bni city, Cibitung, Cibinong, Tebet, Tambun, Srowot, Lemahabang, Cikoya, Tanahtinggi, Cicayur, Parungpanjang, Palmerah, Nambo, Matraman, Manggabesar, Kramat, Klenderbaru, Klender, Pasarminggu, Kebayoran, Kalideres, Jurangmangu, Jayakarta, Jakartakota, Telagamurni, Kedunggedeh, Tanjungpriuk, Angke, Kampungbandan, Pasarminggubaru, Karet, Cikini, Buaran, Bojongindah, Bojonggede, Bogor, Bekasitimur, Batuceper, Ancol, Pesing, Gambir (Monas), Sawahbesar, Rawabuntu, Rawabuaya, Rajawali, Poris, Pondokranji, Pondokjati, Pondokcina, Cakung, Cawang
+20. JAKARTA PUSAT: Pasar senen, Juanda
+21. JAKARTA SELATAN: Manggarai
+22. JAKARTA TIMUR: Halim perdana kusuma
+23. JEMBER: Jatiroto, Jember, Tanggul, Pasuruan, Probolinggo, Ketapang, Klakah, Rambipuji
+24. KAB. BANDUNG: Mason pine bandung, Cicalengka, Tegalluar
+25. KARAWANG: Karawang, Kosambi, Klari, Dawuan, Karawang
+26. KEBUMEN: Kutowinangun
+27. KEDIRI: Kediri
+28. KUTOARJO: Kutoarjo
+29. LHOKSEUMAWE: Bungkaih, Kruengmane, Kruenggeukeuh
+30. MADIUN: Madiun
+31. MAGETAN: Magetan
+32. MAKASSAR: Makassar
+33. MALANG: Malang, Blimbing
+34. MEDAN: Medan, Siantar
+35. MOJOKERTO: Mojokerto
+36. MUARA ENIM: Muara enim
+37. NGANJUK: Kertosono
+38. NGAWI: Ngawi
+39. PADANG: Padangx, Bandara internasional minangkabau, Padang
+40. PALEMBANG: Kertapati
+41. PARE PARE: Pare pare
+42. PEKALONGAN: Pekalongan
+43. PEMALANG: Pemalang
+44. PURWAKARTA: Purwakarta, Cibungur
+45. PURWOKERTO: Purwokerto, Bumiayu
+46. SEMARANG: Cepu, Tegal, Gundih, Telawa, Semarang poncol, Waleri, Selawi, Semarang tawang
+47. SERANG: Serang
+48. SIDOARJO: Sidoarjo
+49. SOLO: Purwosari, Solobalapan
+50. SURABAYA: Sbi, Surabaya kota, Jombang, Surabaya kota, Wonokromo, Bj, Surabaya pasarturi, Cu, Sbi, Surabaya gubeng
+51. SURAKARTA: Solojebres, Kadipiro
+52. TANGERANG: Merak, Rangkasbitung
+53. TEGAL: Prupuk
+54. TULUNGAGUNG: Tulungagung
+55. YOGYAKARTA: Solokota, Yogyakarta berarti nyaman, Yogyakarta international airport, Wates, Brambanan, Klaten, Pasarnguter, Jenar, Sukoharjo, Stasiun bias slo, Bandara adi soemarmo, Lempuyangan, Maguwo
